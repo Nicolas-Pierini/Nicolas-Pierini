@@ -14,8 +14,6 @@
     </style>
 </head>
 <body>
-
-    <!-- Cabeçalho -->
     <header class="text-center py-5">
         <h1 class="fw-bold">Nicolas Pierini</h1>
         <p class="lead">Desenvolvedor Web | PHP • MySQL • Bootstrap • UX/UI</p>
@@ -23,13 +21,9 @@
             📩 Fale comigo no WhatsApp
         </a>
     </header>
-
-    <!-- Seção Projetos -->
     <section class="container my-5">
         <h2 class="mb-4 text-center fw-bold">💻 Projetos Recentes</h2>
         <div class="row g-4">
-
-            <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto1.jpg" class="card-img-top" alt="Projeto 1">
@@ -39,8 +33,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto2.jpg" class="card-img-top" alt="Projeto 2">
@@ -50,8 +42,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto3.jpg" class="card-img-top" alt="Projeto 3">
@@ -61,8 +51,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 4 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto4.jpg" class="card-img-top" alt="Projeto 4">
@@ -72,8 +60,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 5 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto5.jpg" class="card-img-top" alt="Projeto 5">
@@ -83,8 +69,6 @@
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 6 -->
             <div class="col-md-4">
                 <div class="card shadow">
                     <img src="projeto6.jpg" class="card-img-top" alt="Projeto 6">
@@ -94,11 +78,8 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </section>
-
-    <!-- Rodapé -->
     <footer class="text-center py-3">
         <p>📧 nicolas@email.com | 📱 (11) 99999-9999</p>
         <p class="mb-0">© 2025 - Nicolas Pierini. Todos os direitos reservados.</p>
